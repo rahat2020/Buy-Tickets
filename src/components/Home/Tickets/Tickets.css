@@ -1,0 +1,75 @@
+body{
+    background: rgb(141, 127, 127);
+}
+.container{
+    margin-top: 110px;
+}
+.card{
+    border: none;
+    outline: none; 
+    background-color: #fff; 
+    border-radius: 20px;
+    transition: transform .3s;
+
+}
+.cardStyle{
+    height: 200px;
+}
+.card:hover{
+    transform: translateY(-15px);
+    transition: transform .3s;
+}
+.text1 {
+    font: size 13px;
+    color: #575454;
+} 
+.info {
+    line-height: 17px;
+}
+.start {
+    color: goldenrod;
+}
+
+/* card 1 */
+.cost span {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+.train{
+    background: rgb(226, 65, 36);
+}
+
+
+/* card 2 */
+.cost span {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+.bus{
+    background: rgb(145, 199, 64);
+}
+
+
+/* card 3 */
+.cost span {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+.plane{
+    background:gray;
+}
+
+/* universal style for all */
+.train:hover, .bus:hover, .plane:hover {
+    opacity: .8;
+}
+
+.cursor{
+    cursor: pointer;
+    border-bottom-left-radius: 20px ;
+    border-bottom-right-radius: 20px ;
+}
+

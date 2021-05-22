@@ -1,0 +1,13 @@
+p{
+     text-align: center;
+}
+.imgStyle{
+    height: 300px; border-radius: 10px ; margin: 10px 0;
+}
+.color{
+    height: 40px; text-align: center; font-weight: 500;
+}
+
+.titleStyle{
+    color: aqua;
+}
