@@ -13,7 +13,7 @@ const HeaderMain = () => {
                         <div class="carousel-inner">
                             <div class="carousel-item-active">
                                 <div class="row d-flex align-items-center p-5 ">
-                                    <div class="col-md-5">
+                                    <div class="col-md-6">
                                         <h1 className="text-white">From Florida </h1> <h1 class=" titleStyle"> To New York</h1>
                                         <p className="text-white">this is the american best train services that <br />you've ever travel to anywhere in america</p>
                                         <div className="d-flex justify-content-around">
@@ -21,7 +21,7 @@ const HeaderMain = () => {
                                             <a href="#" class="btn btn-primary color"> <i class="fas fa-shopping-cart"></i> Book now </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-7">
+                                    <div class="col-md-6">
                                         <img src={headerOne} class="d-block w-100 imgStyle" alt="..." />
                                     </div>
                                 </div>
@@ -33,7 +33,7 @@ const HeaderMain = () => {
                         <div class="carousel-inner">
                             <div class="carousel-item-active">
                                 <div class="row d-flex align-items-center p-5">
-                                    <div class="col-md-5">
+                                    <div class="col-md-6">
                                         <h1 className="text-white">From Los Angeles </h1> <h1 class=" titleStyle"> To Phoeniex</h1>
                                         <p className="text-white">this is the american best train services that <br />you've ever travel to anywhere in america</p>
                                         <div className="d-flex justify-content-around">
@@ -41,7 +41,7 @@ const HeaderMain = () => {
                                             <a href="#" class="btn btn-primary color"> <i class="fas fa-shopping-cart"></i> Book now </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-7">
+                                    <div class="col-md-6">
                                         <img src={headerTwo} class="d-block w-100 imgStyle" alt="..." />
                                     </div>
                                 </div>
@@ -53,7 +53,7 @@ const HeaderMain = () => {
                         <div class="carousel-inner">
                             <div class="carousel-item-active">
                                 <div class="row d-flex align-items-center p-5 ">
-                                    <div class="col-md-5">
+                                    <div class="col-md-6">
                                         <h1 className="text-white">From Virginia </h1> <h1 class=" titleStyle"> To Huston</h1>
                                         <p className="text-white">this is the american best train services that <br />you've ever travel to anywhere in america</p>
                                         <div className="d-flex justify-content-around">
@@ -61,7 +61,7 @@ const HeaderMain = () => {
                                             <a href="#" class="btn btn-primary color"> <i class="fas fa-shopping-cart"></i> Book now </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-7">
+                                    <div class="col-md-6">
                                         <img src={headerThree} class="d-block w-100 imgStyle" alt="..." />
                                     </div>
                                 </div>
